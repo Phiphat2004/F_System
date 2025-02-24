@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/P-System">
+  <CookieProcessor className="org.apache.tomcat.util.http.LegacyCookieProcessor"/>
+</Context>
